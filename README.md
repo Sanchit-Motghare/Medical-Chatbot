@@ -11,7 +11,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository and navigate to the project directory:**
     ```bash
-    git clone
+    git clone https://github.com/Sanchit-Motghare/Medical-Chatbot.git
     cd Medical-Chatbot
     ```
 2. **Create a virtual environment using conda:**
