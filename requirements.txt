@@ -1,0 +1,16 @@
+ctransformers==0.2.27
+sentence-transformers==3.0.1
+pinecone-client==3.2.2
+langchain==0.2.3
+langchain-core==0.2.5
+langchain-community==0.2.4
+langchain-huggingface==0.0.3
+langchain-pinecone==0.1.1
+pypdf==4.2.0
+python-dotenv==1.0.1
+gradio==5.1.0
+fastapi==0.112.2
+langchain-google-genai==1.0.6
+google-generativeai==0.5.4
+tenacity==8.3.0
+# -e .
